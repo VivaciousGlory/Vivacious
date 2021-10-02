@@ -1,13 +1,12 @@
-
 {
     "CrossPromoUnits": [
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.water.shooting.pool.arena",
-            "IconUrl": "https://raw.githubusercontent.com/azamsaleem2670/zulfitech/FileHosting/CrossPromotion/Images/1.png"
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.billionare.businessman.dad",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Businessman.png"
         },
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.anime.school.girl.life",
-            "IconUrl": "https://raw.githubusercontent.com/azamsaleem2670/zulfitech/FileHosting/CrossPromotion/Images/2.png"
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vg.mother.life.simulator",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/MotherSim.png"
         }
     ]
 }
