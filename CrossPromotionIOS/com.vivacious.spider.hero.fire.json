@@ -3,21 +3,25 @@
        
         
         {
+             "GameName":"Granny Mother",
             "GameUrl": "https://apps.apple.com/pk/app/granny-mother-dream-family-sim/id1606101115",
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/GrannyMotherSim.jpg"
         },
         
          {
+              "GameName":"Scary Teacher",
             "GameUrl": "https://apps.apple.com/pk/app/evil-scary-creepy-teacher-3d/id1607059688",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/ScaryTeacherUpdated.jpg"
         },
       
       {
+           "GameName":"Anime Pregnant Mother",
             "GameUrl": "https://apps.apple.com/pk/app/anime-pregnant-mother-sim/id1593995998",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Anime%20Pregnent%20Mother.jpg"
         },
       
       {
+           "GameName":"Work From Home",
             "GameUrl": "https://apps.apple.com/pk/app/work-from-home-simulator-games/id1606108847",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/WorkFromHome.jpg"
         }
