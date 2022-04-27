@@ -3,16 +3,19 @@
        
         
         {
+             "GameName":"Pet Cat Sim",
             "GameUrl": "https://apps.apple.com/pk/app/cat-simulator-2022-pet-games/id1602650047",
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Pet%20Cat%20Sim.jpg"
         },
         
          {
+              "GameName":"Rocket Car",
             "GameUrl": "https://apps.apple.com/pk/app/rocket-car-soccer-league-mania/id1606097718",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Rocket%20Car%20Soccer.jpg"
         },
       
       {
+           "GameName":"High School Gangster",
             "GameUrl": "https://apps.apple.com/pk/app/high-school-boys-bully-fight/id1609061637",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/HighSchoolGangster.png"
         }
