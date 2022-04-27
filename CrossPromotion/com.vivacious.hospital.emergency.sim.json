@@ -3,21 +3,25 @@
        
         
         {
+             "GameName":"Pet Cat Sim",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.pet.cat.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Pet%20Cat%20Sim.jpg"
         },
        
         {
+             "GameName":"Beach Water",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.beach.water.swimming",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Beach%20Water%20Sim.jpg"
         },
         
          {
+              "GameName":"Anime Pregnant Mother",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.anime.pregnent.mother.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Anime%20Pregnent%20Mother.jpg"
         },
         
         {
+             "GameName":"Work From Home",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.virtual.dad.work.from.home",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/WorkFromHome.jpg"
         }
