@@ -3,18 +3,22 @@
        
       
         {
+             "GameName":"Hospital Sim",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.hospital.emergency.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/HopitalSim.jpg"
         },
         {
+             "GameName":"Repair Master",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.repair.master",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/RepairMaster.png"
         },
          {
+              "GameName":"Anime Pregnant Mother",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.anime.pregnent.mother.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Anime%20Pregnent%20Mother.jpg"
         },
         {
+             "GameName":"Shopping Sim",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.supermarket.shopping.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/ShoppingSimulator.png"
         }
