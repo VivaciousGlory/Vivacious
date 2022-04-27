@@ -3,14 +3,17 @@
        
       
         {
+             "GameName":"Hospital Dealer",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.hospital.emergency.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/HopitalSim.jpg"
         },
         {
+             "GameName":"Spider Hunter",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.spider.hero.fire",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Spider%20Hunter.png"
         },
         {
+             "GameName":"Shopping Sim",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.supermarket.shopping.sim",
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/ShoppingSimulator.png"
         }
