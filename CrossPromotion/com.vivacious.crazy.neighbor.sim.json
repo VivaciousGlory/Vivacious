@@ -1,0 +1,30 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+             "GameName":"Drug Dealer",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.drug.dealer",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/DrugDealerUpdated.jpg"
+        },
+        {
+             "GameName":"Pet Cat Sim",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.pet.cat.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Pet%20Cat%20Sim.jpg"
+        },
+        
+         {
+              "GameName":"Beach Water Sim",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.beach.water.swimming",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Beach%20Water%20Sim.jpg"
+        },
+
+         {
+              "GameName":"Border Patrol",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.border.police.patrol",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Border%20Patrol.png"
+        }
+       
+        
+    ]
+}
