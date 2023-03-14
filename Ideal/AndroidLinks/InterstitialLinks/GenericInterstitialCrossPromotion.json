@@ -3,17 +3,28 @@
        
         
         {
-            "GameName":"Santa Christmas Gift Delivery",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.santa.christmas.gift.delivery",
-            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/SantaGiftDeliveryInt.png",
-            "PackageName": "com.legendary.santa.christmas.gift.delivery"
-            
+            "GameName":"Spider Kill",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.spider.kill.hunter",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Screenshots/SpiderKillInt.jpg",
+            "PackageName": "com.idealrevenge.spider.kill.hunter"
         },
         {
-            "GameName":"Family Simulator",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/FamilySimInt.png",
-            "PackageName": "com.legendary.family.simulator"
+            "GameName":"Road Trip",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.road.trip",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Screenshots/RoadTripInt.jpg",
+              "PackageName": "com.idealrevenge.road.trip"
+        },
+        {
+            "GameName":"High School Gangster",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.high.school.gangster",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Screenshots/HighSchoolIint.jpg",
+              "PackageName": "com.idealrevenge.high.school.gangster"
+        },
+        {
+            "GameName":"Gas Station",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.gas.station.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Screenshots/GasStationInt.jpg",
+              "PackageName": "com.idealrevenge.gas.station.sim"
         }
        
     ]
