@@ -1,1 +1,31 @@
-
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameName":"Spider Kill",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.spider.kill.hunter",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/SantaGiftDelivery.png",
+            "PackageName": "com.idealrevenge.spider.kill.hunter"
+        },
+        {
+            "GameName":"Road Trip",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.road.trip",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySim.png",
+              "PackageName": "com.idealrevenge.road.trip"
+        },
+        {
+            "GameName":"High School Gangster",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.high.school.gangster",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySim.png",
+              "PackageName": "com.idealrevenge.high.school.gangster"
+        },
+        {
+            "GameName":"Gas Station",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.gas.station.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySim.png",
+              "PackageName": "com.idealrevenge.gas.station.sim"
+        }
+       
+    ]
+}
