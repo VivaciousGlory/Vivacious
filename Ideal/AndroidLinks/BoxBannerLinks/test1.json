@@ -8,7 +8,7 @@
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/SpiderKill.jpg",
             "PackageName": "com.idealrevenge.spider.kill.hunter",
             "IconIndex":  0,
-            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
+            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov",
             "IsStarredGame":  true
           
            
@@ -19,8 +19,8 @@
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/RoadTrip.jpg",
               "PackageName": "com.idealrevenge.road.trip",
               "IconIndex":  0,
-            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
-            "IsStarredGame":  true
+            "VideoUrl":  "",
+            "IsStarredGame":  false
            
         },
         {
@@ -29,8 +29,8 @@
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/HighSchoolGangster.jpg",
               "PackageName": "com.idealrevenge.high.school.gangster",
               "IconIndex":  0,
-            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
-            "IsStarredGame":  true
+            "VideoUrl":  "",
+            "IsStarredGame":  false
           
            
         },
@@ -40,8 +40,8 @@
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/GasStation.jpg",
               "PackageName": "com.idealrevenge.gas.station.sim",
              "IconIndex":  0,
-            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
-            "IsStarredGame":  true
+            "VideoUrl":  "",
+            "IsStarredGame":  false
            
            
            
