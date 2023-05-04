@@ -8,8 +8,7 @@
             "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/SpiderKill.jpg",
             "PackageName": "com.idealrevenge.spider.kill.hunter",
               "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov",
-            "IconIndex":  "0",
-            "IsStarredGame":  "true",
+           
         },
         {
             "GameName":"Road Trip",
