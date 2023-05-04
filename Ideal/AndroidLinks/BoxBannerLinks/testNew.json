@@ -9,7 +9,7 @@
             "PackageName": "com.idealrevenge.spider.kill.hunter",
                "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
             "IconIndex":  0,
-            "IsStarredGame":  true
+          
            
         },
         {
@@ -19,7 +19,7 @@
               "PackageName": "com.idealrevenge.road.trip",
               "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
             "IconIndex":  0,
-            "IsStarredGame":  false
+           
         },
         {
             "GameName":"High School Gangster",
@@ -28,7 +28,7 @@
               "PackageName": "com.idealrevenge.high.school.gangster",
              "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
             "IconIndex":  0,
-            "IsStarredGame":  false
+           
         },
         {
             "GameName":"Gas Station",
@@ -37,7 +37,7 @@
               "PackageName": "com.idealrevenge.gas.station.sim",
               "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
             "IconIndex":  0,
-            "IsStarredGame":  false
+           
            
         }
        
