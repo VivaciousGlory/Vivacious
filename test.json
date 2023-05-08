@@ -1,0 +1,29 @@
+{
+  "AdmobProbability":6,
+   "StarredGamesProbability":5,
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameName":"Spider Kill",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.spider.kill.hunter",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/SpiderKill.jpg",
+            "PackageName": "com.idealrevenge.spider.kill.hunter",
+            "IconIndex":  0,
+            "VideoUrl":  "https://github.com/VivaciousGlory/Vivacious/blob/main/testfile.mov?raw=true",
+            "IsStarredGame":  true
+          
+           
+        },
+        {
+            "GameName":"Road Trip",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.idealrevenge.road.trip",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/Ideal/Icons/RoadTrip.jpg",
+              "PackageName": "com.idealrevenge.road.trip",
+              "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
+    ]
+}
