@@ -1,6 +1,6 @@
 {
-  "CPBoxProbability":6,
-  "CPCustomBannersProbability":4,
+  "BoxCPProbability":6,
+  "CustomCPProbability":4,
    "StarredGamesProbability":5,
     "CrossPromoUnits": [
        
