@@ -1,1 +1,27 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameName":"Santa Christmas Gift Delivery",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.santa.christmas.gift.delivery",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/SantaGiftDeliveryInt.png",
+            "PackageName": "com.legendary.santa.christmas.gift.delivery",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+            
+        },
+        {
+            "GameName":"Family Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/FamilySimInt.png",
+            "PackageName": "com.legendary.family.simulator",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+        }
+       
+    ]
+}
 
