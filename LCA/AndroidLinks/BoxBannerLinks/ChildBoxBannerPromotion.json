@@ -23,9 +23,20 @@
         
         {
             "GameName":"Teacher Simulator",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.teacher.simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mother.baby.life.sim",
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/TeacherSimIcon.jpg",
-              "PackageName": "com.legendary.teacher.simulator",
+              "PackageName": "com.legendary.virtual.mother.baby.life.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+           
+        }
+        ,
+        
+        {
+            "GameName":"Mother Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mother.baby.life.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/TeacherSimIcon.jpg",
+              "PackageName": "om.legendary.virtual.mother.baby.life.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
            
