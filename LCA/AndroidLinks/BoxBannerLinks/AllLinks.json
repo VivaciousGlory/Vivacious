@@ -41,6 +41,17 @@
             "VideoUrl":  "",
            
         }
+         ,
+        
+        {
+            "GameName":"Mother Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mother.baby.life.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/MotherSimIcon.jpg",
+              "PackageName": "com.legendary.virtual.mother.baby.life.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+           
+        }
        
     ]
 }
