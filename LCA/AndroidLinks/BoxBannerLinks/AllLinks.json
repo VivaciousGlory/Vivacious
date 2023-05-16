@@ -9,7 +9,7 @@
             "PackageName": "com.legendary.santa.christmas.gift.delivery",
              "IconIndex":  0,
             "VideoUrl":  "",
-            
+            "IsStarredGame":  false
         },
         {
             "GameName":"Family Simulator",
@@ -18,7 +18,7 @@
               "PackageName": "com.legendary.family.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
-           
+            "IsStarredGame":  false
         },
         
         {
@@ -28,20 +28,9 @@
               "PackageName": "com.legendary.virtual.mother.baby.life.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
-           
+            "IsStarredGame":  false
         }
         ,
-        
-        {
-            "GameName":"Mother Simulator",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mother.baby.life.sim",
-            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/MotherSimIcon.jpg",
-              "PackageName": "om.legendary.virtual.mother.baby.life.sim",
-             "IconIndex":  0,
-            "VideoUrl":  "",
-           
-        }
-         ,
         
         {
             "GameName":"Mother Simulator",
@@ -50,6 +39,18 @@
               "PackageName": "com.legendary.virtual.mother.baby.life.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
+            "IsStarredGame":  false
+        }
+         ,
+        
+        {
+            "GameName":"Farm Animal",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.farm.animal.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FarmAnimalIcon.png",
+              "PackageName": "com.legendary.farm.animal.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
            
         }
        
