@@ -9,16 +9,26 @@
             "PackageName": "com.legendary.santa.christmas.gift.delivery",
              "IconIndex":  0,
             "VideoUrl":  "",
-            "IsStarredGame":  false
+            
         },
         {
             "GameName":"Family Simulator",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySim.png",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySimIcon.jpg",
               "PackageName": "com.legendary.family.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
-            "IsStarredGame":  false
+           
+        },
+        
+        {
+            "GameName":"Teacher Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.teacher.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/TeacherSimIcon.jpg",
+              "PackageName": "com.legendary.teacher.simulator",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+           
         }
        
     ]
