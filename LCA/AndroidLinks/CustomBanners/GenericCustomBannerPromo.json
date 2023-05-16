@@ -1,26 +1,81 @@
-
 {
     "CrossPromoUnits": [
        
         
         {
-            "GameName":"Santa Christmas Gift Delivery",
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.santa.christmas.gift.delivery",
-            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/SantaGiftDelivery.png",
-            "PackageName": "com.legendary.santa.christmas.gift.delivery",
+            "GameName":"Anime Girl",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.anime.girl.simualtor.yandere.survival.sim",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/AnimeGirlBanner.png",
+            "PackageName": "com.legendary.anime.girl.simualtor.yandere.survival.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
             "IsStarredGame":  false
+            
         },
         {
             "GameName":"Family Simulator",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/FamilySim.png",
-              "PackageName": "com.legendary.family.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/FamilySimBanner.png",
+            "PackageName": "com.legendary.family.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
             "IsStarredGame":  false
         }
-       
+        ,
+        {
+             "GameName":"Teacher Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.teacher.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/SchoolTeacherBanner.png",
+              "PackageName": "com.legendary.teacher.simulator",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+        }
+         ,
+        {
+             "GameName":"Mother Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mother.baby.life.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/MotherSimBanner.png",
+              "PackageName": "com.legendary.virtual.mother.baby.life.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+        }
+        ,
+        
+        {
+            "GameName":"Farm Animal",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.farm.animal.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/FarmAnimalBanner.png",
+              "PackageName": "com.legendary.farm.animal.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
+       ,
+        
+        {
+            "GameName":"Virtual Rent Home",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.rent.home.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/VirtualRentHomeBanner.png",
+              "PackageName": "com.legendary.virtual.rent.home.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
+        ,
+        
+        {
+            "GameName":"Virtual Volley Ball",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.volley.ball.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/VolleyBallBanner.png",
+              "PackageName": "com.legendary.volley.ball.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
     ]
 }
