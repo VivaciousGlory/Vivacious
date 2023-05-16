@@ -25,7 +25,7 @@
         {
              "GameName":"Teacher Simulator",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.teacher.simulator",
-            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/TeacherSimInt.jpg",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/SchoolTeacherBanner.png",
               "PackageName": "com.legendary.teacher.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
@@ -60,6 +60,18 @@
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.rent.home.sim",
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/VirtualRentHomeBanner.png",
               "PackageName": "com.legendary.virtual.rent.home.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
+        ,
+        
+        {
+            "GameName":"Virtual Volley Ball",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.volley.ball.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Banners/VolleyBallBanner.png",
+              "PackageName": "com.legendary.volley.ball.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
             "IsStarredGame":  false
