@@ -19,7 +19,7 @@
             "PackageName": "com.legendary.family.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
-            "IsStarredGame":  false
+            "IsStarredGame":  true
         }
         ,
         {
@@ -65,5 +65,18 @@
             "IsStarredGame":  false
            
         }
+        ,
+        
+        {
+            "GameName":"Kite Flying",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.kite.flying",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/KiteFlyingInt.jpg",
+              "PackageName": "com.legendary.kite.flying",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  true
+           
+        }
+       
     ]
 }
