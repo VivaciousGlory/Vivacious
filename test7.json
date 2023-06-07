@@ -17,7 +17,7 @@
             "GameName":"Farm Animal",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.farm.animal.sim",
             "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/FarmAnimalInt.jpg",
-             "AdmobStyleIconUrl":"https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/image.png",
+             "AdmobStyleIconUrl":"",
               "PackageName": "com.legendary.farm.animal.sim",
              "IconIndex":  0,
             "VideoUrl":  "",
