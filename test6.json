@@ -1,0 +1,30 @@
+{
+    "CrossPromoUnits": [
+       
+        
+       
+        {
+            "GameName":"Family Simulator",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/FamilySimInt.png",
+            "PackageName": "com.legendary.family.simulator",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  true
+        }
+       
+        ,
+        
+        {
+            "GameName":"Farm Animal",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.farm.animal.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Screenshots/FarmAnimalInt.jpg",
+              "PackageName": "com.legendary.farm.animal.sim",
+             "IconIndex":  0,
+            "VideoUrl":  "",
+            "IsStarredGame":  false
+           
+        }
+       
+    ]
+}
