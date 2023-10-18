@@ -1,1 +1,35 @@
+{
+    "DataDetails": [
+        {
+           
+              "quantity": "1",
+             "dateTime": "10/18/2023 12:05:00 AM"
+          
+        }
+       ,
+        {
+           
+              "quantity": "5",
+             "dateTime": "10/19/2023 12:05:00 PM"
+          
+        }
+         ,
+        {
+           
+              "quantity": "5",
+             "dateTime": "10/19/2023 12:07:00 PM"
+          
+        }
+        ,
+        {
+          
+              "quantity": "5",
+             "dateTime": "10/19/2023 12:10:00 PM"
+          
+        }
+       
+       
+    ]
+}
+
 
