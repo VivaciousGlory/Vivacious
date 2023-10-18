@@ -1,28 +1,28 @@
 {
     "DataDetails": [
         {
-           
+           "item_Type": Feeding,
               "quantity": "1",
              "dateTimeString": "10/18/2023 12:05 AM"
           
         }
        ,
         {
-           
-              "quantity": "5",
+            "item_Type": Injecting,
+              "quantity": "25",
              "dateTimeString": "10/19/2023 12:05 PM"
           
         }
          ,
         {
-           
+            "item_Type": Injecting,
               "quantity": "5",
              "dateTimeString": "10/19/2023 12:07 PM"
           
         }
         ,
         {
-          
+           "item_Type": Feeding,
               "quantity": "5",
              "dateTimeString": "10/19/2023 12:10 PM"
           
