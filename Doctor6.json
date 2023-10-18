@@ -1,28 +1,28 @@
 {
-    "DataDetails": [
+    "ServerData": [
         {
-           "itemIndex": 0,
+           "itemType": 0,
               "quantity": "1",
              "dateTimeString": "10/18/2023 12:05 AM"
           
         }
        ,
         {
-            "itemIndex":1,
+            "itemType":1,
               "quantity": "25",
              "dateTimeString": "10/19/2023 12:05 PM"
           
         }
          ,
         {
-            "itemIndex": 1,
+            "itemType": 1,
               "quantity": "5",
              "dateTimeString": "10/19/2023 12:07 PM"
           
         }
         ,
         {
-           "itemIndex": 0,
+           "itemType": 0,
               "quantity": "5",
              "dateTimeString": "10/19/2023 12:10 PM"
           
