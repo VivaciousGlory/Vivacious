@@ -9,7 +9,7 @@
             "PackageName": "com.legendary.santa.christmas.gift.delivery",
              "IconIndex":  0,
             "VideoUrl":  "",
-            "IsStarredGame":  false
+            "IsStarredGame":  true
         },
         {
             "GameName":"Family Simulator",
@@ -18,7 +18,7 @@
               "PackageName": "com.legendary.family.simulator",
              "IconIndex":  0,
             "VideoUrl":  "",
-            "IsStarredGame":  true
+            "IsStarredGame":  false
         },
         
         {
@@ -41,7 +41,18 @@
             "VideoUrl":  "",
             "IsStarredGame":  false
         }
-         
+        ,
+       
+       {
+           "GameName":"Tic Tac Toe Football",
+           "GameUrl": "https://play.google.com/store/apps/details?id=com.lca.tic.tac.toe.football",
+           "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/LCA/Icons/TicTacToeIcon.jpg",
+             "PackageName": "com.lca.tic.tac.toe.football",
+            "IconIndex":  0,
+           "VideoUrl":  "",
+           "IsStarredGame":  true
+          
+       }
        
     ]
 }
